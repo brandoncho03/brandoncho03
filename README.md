@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
-<h3 align="center">I'm studying computer science and I love learning! I believe humans are lifelong learners. Everyday I study to learn something new such as a shortcut in a coding language or a new technology that has been unveiled.</h3>
+<h3 align="center">I enjoy expressing myself and my interests though my projects. Currently a student working to create a diverse portfolio showcasing my technological skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandoncho03&label=Profile%20views&color=0e75b6&style=flat" alt="brandoncho03" /> </p>
 
